@@ -2,6 +2,7 @@
 
 # Домашнее задание к занятию "1.2. Тестирование API, CI"
 ## Задание 1. Настройка CI
+## Задание 2. JSON Schema
 ### Воронович А.А.
 
 Ссылка на задание: https://github.com/netology-code/aqa-homeworks/tree/master/api-ci
