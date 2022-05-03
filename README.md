@@ -6,4 +6,5 @@
 ### Воронович А.А.
 
 [Ссылка](https://github.com/netology-code/aqa-homeworks/tree/master/api-ci#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-ci) на задание 1
+
 [Ссылка](https://github.com/netology-code/aqa-homeworks/tree/master/api-ci#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2---json-schema) на задание 2
